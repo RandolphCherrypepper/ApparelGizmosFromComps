@@ -1,4 +1,4 @@
-﻿Apparel Gizmos From Comps
+Apparel Gizmos From Comps
 by Randolph Cherrypepper
 
 This mod is meant for Code modders.
@@ -17,3 +17,6 @@ Feel free to leave a comment if you run into a problem.
 
 Steam Download:
 http://steamcommunity.com/sharedfiles/filedetails/?id=1095583324
+
+GitHub Download:
+https://github.com/RandolphCherrypepper/ApparelGizmosFromComps/releases/
