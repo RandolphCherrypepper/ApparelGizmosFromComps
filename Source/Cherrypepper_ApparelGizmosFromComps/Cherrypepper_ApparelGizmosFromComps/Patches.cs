@@ -1,6 +1,6 @@
 ﻿using RimWorld;
 using Verse;
-using Harmony;
+using HarmonyLib;
 using System.Reflection;
 using System.Collections.Generic;
 
@@ -11,7 +11,7 @@ namespace Randolph_Cherrypepper
     {
         static Main()
         {
-            var harmony = HarmonyInstance.Create("com.randolphcherrypepper.rimworld.mod.apparelgizmosfromcomps");
+            var harmony = new Harmony("com.randolphcherrypepper.rimworld.mod.apparelgizmosfromcomps");
             harmony.PatchAll(Assembly.GetExecutingAssembly());
         }
     }
